@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-*.iml
+javaHomework_3.iml
 out/
 .idea/
